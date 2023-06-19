@@ -1,0 +1,15 @@
+Subsonic:
+idx = 59792
+minimum TSFC = 7.801851385317847e-05
+ideal ST = 514.6214406949293
+ideal Pr_c = 1.51
+ideal f = 0.019850000000000003
+ideal f_ab = 0.020300000000000002
+
+Supersonic:
+idx = 59792
+minimum TSFC = 5.319543857863686e-05
+ideal ST = 754.7639623395103
+ideal Pr_c = 1.51
+ideal f = 0.019850000000000003
+ideal f_ab = 0.020300000000000002
