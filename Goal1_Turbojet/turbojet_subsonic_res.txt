@@ -1,0 +1,6 @@
+idx = 137436
+minimum TSFC = 1.9061107454055066e-05
+ideal ST = 386.6511963045517
+ideal Pr_c = 60.0
+ideal f = 0.00737
+ideal f_ab = 0.0
